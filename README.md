@@ -73,6 +73,7 @@ scikit-learn
 streamlit
 joblib
 numpy
+XGBoost
 
 
 Run the Streamlit app:
